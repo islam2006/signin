@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import pickle
 
-
+# comment elave eledim
 def registration():
     label_error = None
     frame = Frame(root, bd=10)
